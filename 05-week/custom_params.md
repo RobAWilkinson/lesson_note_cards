@@ -16,6 +16,7 @@
 ###Recall what we did with our bean app to select by roasts, and students by grade
 
 ###Build a simple rails app and use custom params to just render a string on the next page
+#~/params_app
 
 `rails new params_app -O -T`
 
