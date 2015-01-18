@@ -17,11 +17,11 @@ What are the main steps in creating a new rails app?
 
 ###Classroom culture feedback.(20 min)
 
-Its ok to fail and get errors.
-Take chances, make mistakes!
-Experiment around and see what happens.
-Its just code, and the code doesnt care
-Get excited! This is your life here, if you're not passionate and excited about it who is going to be?
+* Its ok to fail and get errors.
+* Take chances, make mistakes!
+* Experiment around and see what happens.
+* Its just code, and the code doesnt care
+* Get excited! This is your life here, if you're not passionate and excited about it who is going to be?
 
 ###Rails Recap(40 min)
 
